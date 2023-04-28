@@ -1,7 +1,7 @@
 <template>
     <div class="flex flex-col space-y-1 cursor-pointer transition-all hover:scale-105"
          @click="navigateTo(`/sneakers/${props.id}`)">
-        <img :alt="sneakers.name" :src="useAsset(`sneakers/${sneakers.mainPreview}`)" class="h-[400px] w-[400px]">
+        <img :alt="sneakers.name" :src="useAsset(`sneakers/${sneakers.mainPreview}`)" class="h-[400px] w-[400px] brightness-[95%]">
         <p class="font-bold">{{ sneakers.name }}</p>
         <p>{{ sneakers.price }} $</p>
     </div>

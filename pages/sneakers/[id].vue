@@ -60,7 +60,7 @@ function useAsset(path: string): string {
 
 <style scoped>
 .preview {
-    @apply transition-all;
+    @apply transition-all cursor-pointer;
 }
 
 .preview-active {
