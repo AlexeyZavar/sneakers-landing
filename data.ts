@@ -248,6 +248,60 @@ const sneakers = {
         price: 130,
         description: 'Converse Chuck Taylor All Star — классическая версия низких кедов, впервые представленная в 1917 году. За свою историю Chuck Taylor All Star стали настоящим символом спортивной обуви, при этом оставаясь ключевым силуэтом в коллекции Converse. Легенда, которая станет отличным дополнением каждого гардероба.',
         additional: {}
+    },
+    reebok1: {
+        name: 'Anuel Question Mid Double Toe Shoes',
+        mainPreview: 'reebok1.webp',
+        previews: [
+            'reebok1_1.webp',
+            'reebok1_2.webp',
+            'reebok1_3.webp',
+            'reebok1_4.webp',
+            'reebok1_5.webp',
+        ],
+        price: 170,
+        description: 'Reebok x Anuel AA вдохновлен Карибским небом и предлагает новый взгляд на Question Mid Double Toe и Classic Leather 1983 Vintage. От амортизации Hexalite и формованной подошвы EVA до прохладного кожаного верха - в каждом силуэте присутствуют фирменные детали, которые может привнести в эту классику только Anuel.',
+        additional: {}
+    },
+    reebok2: {
+        name: 'Nano X3 Shoes',
+        mainPreview: 'reebok2.webp',
+        previews: [
+            'reebok2_1.webp',
+            'reebok2_2.webp',
+            'reebok2_3.webp',
+            'reebok2_4.webp',
+        ],
+        price: 150,
+        description: 'Хотите верьте, хотите нет, но существует тренировочная обувь, в которой вы действительно можете бегать. Встречайте кроссовки Nano X3 с новой системой Lift and Run Chassis. Куполообразная часть пятки сжимается под нагрузкой при подъеме, создавая устойчивую платформу, а затем смягчается, когда вы отталкиваетесь при беге. Все это опирается на отмеченную наградами энергетическую пену Floatride, которая обеспечивает легкую амортизацию, чтобы сделать бег самой легкой частью тренировки.',
+        additional: {}
+    },
+    reebok3: {
+        name: 'Club C 85 Men\'s Shoes',
+        mainPreview: 'reebok3.webp',
+        previews: [
+            'reebok3_1.webp',
+            'reebok3_2.webp',
+            'reebok3_3.jpg',
+            'reebok3_4.webp',
+            'reebok3_5.webp',
+        ],
+        price: 75,
+        description: 'Гладкость - это то, как ты катаешься. А теперь у вас есть соответствующие кроссовки. Наденьте эти кроссовки Club C 85 и выйдите на сцену. Благодаря простому стилю эти кроссовки из эластичной кожи сочетаются с чем угодно. Ведь иногда не нужно ничего говорить, чтобы заявить о себе.',
+        additional: {}
+    },
+    reebok4: {
+        name: 'Classic Leather Shoes',
+        mainPreview: 'reebok4.webp',
+        previews: [
+            'reebok4_1.webp',
+            'reebok4_2.webp',
+            'reebok4_3.webp',
+            'reebok4_4.webp',
+        ],
+        price: 80,
+        description: 'С простотой приходит стиль. Эти кроссовки, созданные на основе классического силуэта Reebok, привнесут в ваш образ нотку ретро. Блестящие боковые полоски добавят привлекательную деталь к вашему наряду. Мягкая кожа обволакивает стопу, и вы скользите по ней с комфортом.',
+        additional: {}
     }
 }
 
