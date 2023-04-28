@@ -18,7 +18,7 @@
                 </div>
             </div>
         </header>
-        <main>
+        <main class="pb-20">
             <slot/>
         </main>
     </div>
