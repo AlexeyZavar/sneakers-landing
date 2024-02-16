@@ -7,7 +7,6 @@ export default defineNuxtConfig({
                 {name: 'viewport', content: 'width=1920px'}
             ]
         },
-        baseURL: '/shared/fl_2904'
     },
     modules: ['@nuxtjs/tailwindcss', '@nuxtjs/google-fonts', 'nuxt-icon'],
     googleFonts: {

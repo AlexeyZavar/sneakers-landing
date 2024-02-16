@@ -48,7 +48,7 @@ const currentPreview = ref(sneakers.previews[0])
 const brandUrl = computed(() => `/brands/${route.params.id.substring(0, route.params.id.length - 1)}#catalog`)
 
 function useAsset(path: string): string {
-    const assets = import.meta.glob('~/assets/**/*', {
+    const assets = import.meta.glob('@/assets/**/*', {
         eager: true,
         import: 'default',
     })
